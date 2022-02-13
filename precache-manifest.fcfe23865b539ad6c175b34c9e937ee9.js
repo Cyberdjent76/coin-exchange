@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bae60d76cb8e6f0d079af004163ad99e",
+    "revision": "31f9db71fbf4e1b06c13ba670e18fb82",
     "url": "/coin-exchange/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coin-exchange/static/css/2.5c8a56e9.chunk.css"
   },
   {
-    "revision": "abcadd7a771c953dd075",
+    "revision": "b23b7317408080388f7b",
     "url": "/coin-exchange/static/css/main.9bc0bf87.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coin-exchange/static/js/3.38aaded6.chunk.js"
   },
   {
-    "revision": "abcadd7a771c953dd075",
-    "url": "/coin-exchange/static/js/main.952b1e7b.chunk.js"
+    "revision": "b23b7317408080388f7b",
+    "url": "/coin-exchange/static/js/main.67865734.chunk.js"
   },
   {
     "revision": "bf13755b02f8dac675b9",
